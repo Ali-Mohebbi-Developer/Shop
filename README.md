@@ -1,4 +1,4 @@
-# A project with React and Next
+# A project with React , Zustand and Next
 
 - [Demo Project](https://shop-red-two.vercel.app/)
 
@@ -6,7 +6,7 @@
 
 - Created - 2024-08-22
 
-- Technologies Used - Html , Css , tailwind , responsive , bootstrap , JavaScript , React , Next 
+- Technologies Used - Html , Css , tailwind , responsive , bootstrap , JavaScript , React , Zustand , Next 
 
 - Role - Frontend
 
