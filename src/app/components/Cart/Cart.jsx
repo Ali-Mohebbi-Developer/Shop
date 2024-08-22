@@ -142,7 +142,7 @@ const Cart = () => {
               </span>
             </div>
             <Link href="/components/Sell">
-              <button className="w-full py-2 mt-3 text-white bg-blue-600 rounded-md">
+              <button className="w-full py-2 mt-3 text-white bg-blue-600 rounded-md"  onClick={() => setOpen(false)}>
                 Proceed to Checkout
               </button>
             </Link>
